@@ -34,7 +34,7 @@ Aplikasi deteksi teks pada video menggunakan **EasyOCR** dengan dukungan **GPU a
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/username/deteksi-timestamps.git
+git clone https://github.com/ReyRiz/Text-Detection-Using-EasyOCR-for-Youtube-Timestamping.git
 cd deteksi-timestamps
 ```
 
